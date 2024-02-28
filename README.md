@@ -16,7 +16,7 @@ This is a simple digital clock implemented in Java using Swing.
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/digital-clock.git
+   git clone https://github.com/Grapphic/Digital_clock_in_java.git
 
 ## Contributing
 
